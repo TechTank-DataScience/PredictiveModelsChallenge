@@ -1,6 +1,6 @@
 #Predictive Models Challenge
 
-On December 17, 2015, the Tech Tank Data Science Cohort met to kickoff their class. What is Tech Tank?
+On December 17, 2015, the Tech Tank Data Science Cohort met to kickoff their class. What is Tech Tank? The Tech Tank Data Science Program Playbook says it very well: 
 
 >The Tech Tank is designed to rapidly build a pool of high-demand data scientists in an innovative and differentiated way. The Program will produce:
 * A highly networked and visible cadre of high potential junior data science talent
