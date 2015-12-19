@@ -1,5 +1,4 @@
-# PredictiveChallenge1
-##Predictive Models Challenge
+#Predictive Models Challenge
 
 On December 17, 2015, the Tech Tank Data Science Cohort met to kickoff their class. What is Tech Tank?
 
